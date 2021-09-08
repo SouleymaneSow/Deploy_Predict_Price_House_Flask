@@ -1,5 +1,4 @@
-# Deploy_Predict_Price_House_Flask
-## Predicting-Melbourne-House-Prices-Using-Random-Forest-Flask-Web-Application
+# Predicting-House-Prices-Using-Random-Forest-Flask-Web-Application
 
 <h2>Dependencies for running the web app</h2>
 
@@ -22,4 +21,3 @@
   
  <h2>Link for house price prediction using decision trees and random forest jupyter notebook below </h2>
  <a href="https://github.com/SouleymaneSow/Deploy_Predict_Price_House_Flask/tree/Melbourne_Predict_House">Decision Tree and Random Forest Models Notebooks</a>
-
